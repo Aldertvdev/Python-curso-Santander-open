@@ -24,7 +24,13 @@ https://app.santanderopenacademy.com/pt-BR/course/python-cursor-smarter-developm
 
 ## Idiomas 
 
-- Português, Espanhol, Inglês
+> Português, Espanhol, Inglês
+
+## 📚 Outros estudos meus de Python | Banco de Dados
+
+ - [ ] [Python Santander](https://github.com/Aldertvdev/Python-curso-Santander-open/blob/main/README.md)- Cursor com Python - Santander Open Academy ♨️
+ > 
+- [ ] [Curso Python development IA](https://app.santanderopenacademy.com/pt-BR/course/python-cursor-smarter-development-with-ai)- Desenvolvimento Inteligente com IA
 
 ---
 
