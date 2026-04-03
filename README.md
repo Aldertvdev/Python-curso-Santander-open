@@ -15,7 +15,7 @@ https://app.santanderopenacademy.com/pt-BR/course/python-cursor-smarter-developm
 - Projetos desenvolvidos
 - Anotações e códigos do curso
 
-## Tecnologias
+## Tecnologias 🧑🏻‍💻
 
 - Python
 - Cursor (IA)
