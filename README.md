@@ -20,6 +20,11 @@ https://app.santanderopenacademy.com/pt-BR/course/python-cursor-smarter-developm
 - Python
 - Cursor (IA)
 - GitHub
+- inteligente com IA
+
+## Idiomas 
+
+- Português, Espanhol, Inglês
 
 ---
 
